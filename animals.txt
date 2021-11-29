@@ -1,2 +1,3 @@
 list of animals:
 1.Dog
+2.Horse
